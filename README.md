@@ -1,2 +1,2 @@
 # segmentation-example
-Minimal example for semantic segmentation
+Minimal example of semantic segmentation created for SMILE
